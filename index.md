@@ -32,7 +32,7 @@ that was easy to integrate into existing products through a flexible API.
 
 #### <img style="margin:0; padding:0; border:none; height:30pt; bottom: -10pt" src="/assets/img/ens-logo.png"> 2012 - PhD in distributed systems @ ENS Lyon, France
 
-For three years I am working full-time doing research in the field of resource management for large scale distributed IaaS platforms.
+For three years I was doing full-time research in the field of resource management for large scale distributed IaaS platforms.
 
 In 2012 I obtained a PhD in Resource management for large scale Cloud Platforms at
 Ecole Normale Supérieure de Lyon in the Avalon research team, under
