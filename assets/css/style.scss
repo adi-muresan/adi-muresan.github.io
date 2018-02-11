@@ -4,3 +4,6 @@
 @import "{{ site.theme }}";
 
 a:hover, a:focus { text-decoration: underline; font-weight: normal; }
+
+img { border: none; box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; -o-box-shadow: none; -ms-box-shadow: none; }
+
