@@ -14,7 +14,7 @@ My interests are:
 - high performance computing
 - distributed system
 
-Have something interesting to say? [Shoot me an email.](mailto:muresan.adrian.bn@gmail.com)
+You can contact me [here](mailto:muresan.adrian.bn@gmail.com).
 
 #### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/3Dhubs.png"> Present - R&D Lead @ 3D Hubs, Amsterdam
 
