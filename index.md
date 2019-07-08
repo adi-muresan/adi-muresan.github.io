@@ -2,7 +2,7 @@
 layout: home
 ---
 
-My name is Adrian Muresan and my friends call me Adi. Here you&apos;ll find a brief description about about.
+My name is Adrian Muresan and my friends call me Adi. Here you&apos;ll find a brief description about me.
 For the longer version check out [my linkedin profile]({{ site.linkedin_url }}).
 
 My interests are:
