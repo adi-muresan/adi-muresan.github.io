@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I'm a Adrian Muresan, a professional research scientist with experience in the fields of:
+I am Adrian Muresan, a professional research scientist with experience in the fields of:
 
 - Distributed System
 - High Performance Computing
