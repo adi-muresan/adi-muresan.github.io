@@ -18,7 +18,7 @@ name: Adrian Muresan
 email: muresan.adrian.bn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adrian Muresan, R&D Lead, Research and development, computational geometry, numerical simulation,
-  high performance computing, distributed system. Printivate
+  high performance computing, distributed system, deep learning. Printivate
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
