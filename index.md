@@ -2,24 +2,21 @@
 layout: home
 ---
 
-My name is Adrian Muresan and my friends call me Adi. Here you&apos;ll find a brief description about me.
-For the longer version check out [my linkedin profile]({{ site.linkedin_url }}).
+I'm a Adrian Muresan, a professional research scientist with experience in the fields of:
 
-My interests are:
-- technical leadership
-- R&amp;D
-- computational geometry
-- 3D reconstruction &amp; processing
-- numerical simulation
-- high performance computing
-- distributed system
+- Distributed System
+- High Performance Computing
+- Computational Geometry
+- Deep Learning
 
 You can contact me [here](mailto:muresan.adrian.bn@gmail.com).
+
+For more info take a look at [my linkedin profile]({{ site.linkedin_url }}).
 
 #### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/3Dhubs.png"> Present - R&D Lead @ 3D Hubs, Amsterdam
 
 I am currently leading the R&D department of [3D Hubs](https://3dhubs.com), the largest network for online manufacturing services.
-We do computational geometry to extract relevant information from 3D models and machine learning to use this information in interesting ways.
+We use computational geometry to extract relevant information from 3D models and deep learning to use this information in interesting ways.
 
 #### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/Colorful-Natural-Tree.png"> 2016 - 3D Hubs acquired Printivate
 
