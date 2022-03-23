@@ -13,9 +13,9 @@ You can contact me [here](mailto:muresan.adrian.bn@gmail.com).
 
 For more info take a look at [my linkedin profile]({{ site.linkedin_url }}).
 
-#### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/3Dhubs.png"> Present - R&D Lead @ 3D Hubs, Amsterdam
+#### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/3Dhubs.png"> 2016 - R&D Lead @ 3D Hubs, Amsterdam
 
-I am currently leading the R&D department of [3D Hubs](https://3dhubs.com), the largest network for online manufacturing services.
+I have lead the R&D department of [Hubs](https://hubs.com) (formerly 3D Hubs), the largest network for online manufacturing services.
 We use computational geometry to extract relevant information from 3D models and deep learning to use this information in interesting ways.
 
 #### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/Colorful-Natural-Tree.png"> 2016 - 3D Hubs acquired Printivate
