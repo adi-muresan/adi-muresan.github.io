@@ -2,16 +2,19 @@
 layout: home
 ---
 
-I am Adrian Muresan, a practical research scientist with R&D experience in the fields of:
+I am a professional research scientist focused on solving complex real world problems with applied math and AI. My experience is in industrial research, applied AI, building scientific computing platforms, high performance computing platforms, distributed systems and computational geometry.
 
-- Distributed System
-- High Performance Computing
-- Computational Geometry
-- Deep Learning
+I enjoy working in interdisciplinary teams and applying modern statistical modeling and compute concepts to other fields.
+
+With a versatile development skill set ranging from fast prototyping, to building real world performance oriented platforms, there is nothing I enjoy more than solving hard problems.
 
 You can contact me [here](mailto:muresan.adrian.bn@gmail.com).
 
 For more info take a look at [my linkedin profile]({{ site.linkedin_url }}).
+
+#### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/aon3d.png"> 2021 - VP of Software Research, AON3D
+
+At AON my goal is to build AI for extrusion based processing of high performance polymers. As an individual contributor, I conduct novel research and build prototypes to validate research hypothesis using applied math and modern AI approaches for simulating physical phenomena. As lead of the R&D team, I am responsible for setting and pursuing research goals for an interdisciplinary team covering polymer scientists, mechanical engineers and software engineers. Collaboration and shared understanding are key to success in interdisciplinary teams.
 
 #### <img style="margin:0; padding:0; border:none; height:40pt; bottom: -15pt" src="/assets/img/3Dhubs.png"> 2016 - R&D Lead @ 3D Hubs, Amsterdam
 
